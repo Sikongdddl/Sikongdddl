@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on model-based RL in electronic system schedule in Artifical Intelligence Researching Institude of SJTU. 
+
+Glad to have some discussions, Not mustly about reinforcement learning XD. 
 <!--
 **Sikongdddl/Sikongdddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
