@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on model-based RL in electronic system schedule in Artifical Intelligence Researching Institude of SJTU. 
+🔭 I’m currently working on model-based SafeRL in Artifical Intelligence Researching Institude of SJTU with guidance of Prof. Wang Yunbo. 
 
 Glad to have some discussions, Not mustly about reinforcement learning XD. 
 <!--
