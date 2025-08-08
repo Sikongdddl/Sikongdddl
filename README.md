@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on model-based SafeRL in Artifical Intelligence Researching Institude of SJTU with guidance of Prof. Wang Yunbo. 
+🔭 I’m currently working on model-based SafeRL in Artifical Intelligence Researching Institude of SJTU with guidance of Prof. Yunbo Wang. 
+📫 How to reach me: Welcome to email me at sikongdddl@gmail.com for any discussions!
 
-Glad to have some discussions, Not mustly about reinforcement learning XD. 
+Glad to have some discussions. 
 <!--
 **Sikongdddl/Sikongdddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
