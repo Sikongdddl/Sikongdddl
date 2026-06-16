@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on model-based SafeRL and Embodied RL in Artifical Intelligence Researching Institude of SJTU with guidance of Prof. Yunbo Wang. 
+🔭 I’m currently working on model-based RL and Embodied RL in Artifical Intelligence Researching Institude of SJTU with guidance of Prof. Yunbo Wang. 
 
 📫 How to reach me: Welcome to email me at sikongdddl@gmail.com for any discussions!
 
